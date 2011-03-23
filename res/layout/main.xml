@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<com.ctc.tutorial.DynamicLayoutViewGroup
+	android:id="@+id/menugroup"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+<ImageView
+	android:id="@+id/view1"
+	android:background="@drawable/one"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+	<ImageView
+	android:id="@+id/view2"
+	android:background="@drawable/two"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+		<ImageView
+	android:id="@+id/view3"
+	android:background="@drawable/three"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view4"
+	android:background="@drawable/four"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view5"
+	android:background="@drawable/five"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view6"
+	android:background="@drawable/six"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view7"
+	android:background="@drawable/seven"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view8"
+	android:background="@drawable/eight"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+			<ImageView
+	android:id="@+id/view9"
+	android:background="@drawable/nine"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	</ImageView>
+</com.ctc.tutorial.DynamicLayoutViewGroup>
+
+</LinearLayout>
